@@ -1,0 +1,21 @@
+/*
+ * This is my first java program.
+ * This will print "Hello World" asthe output.
+ * @author Thiago Santos
+ */
+package myfirstjavaprogram;
+
+/**
+ *
+ * @author thsan
+ */
+public class MyFirstJavaProgram {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+    System.out.println("Hello World"); // prints Hello World
+    }
+    
+}
